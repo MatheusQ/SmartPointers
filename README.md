@@ -1,5 +1,7 @@
 # Smart Pointers C++
 
+Trabalho simples desenvolvido para a disciplina de Programação Orientada a Objetos do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia da UNICAMP.
+
 ## Repositório do projeto: <https://github.com/MatheusQ/SmartPointers>
 
 ### Breve Introdução
